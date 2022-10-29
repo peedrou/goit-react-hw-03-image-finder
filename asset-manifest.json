@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Nataliphoenix/goit-react-hw-03-image-finder/static/css/main.7acaea2f.css",
-    "main.js": "/Nataliphoenix/goit-react-hw-03-image-finder/static/js/main.07d3183d.js",
-    "index.html": "/Nataliphoenix/goit-react-hw-03-image-finder/index.html",
-    "main.7acaea2f.css.map": "/Nataliphoenix/goit-react-hw-03-image-finder/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Nataliphoenix/goit-react-hw-03-image-finder/static/js/main.07d3183d.js.map"
+    "main.css": "/goit-react-hw-03-image-finder/static/css/main.9c26006a.css",
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.81d6f5cf.js",
+    "index.html": "/goit-react-hw-03-image-finder/index.html",
+    "main.9c26006a.css.map": "/goit-react-hw-03-image-finder/static/css/main.9c26006a.css.map",
+    "main.81d6f5cf.js.map": "/goit-react-hw-03-image-finder/static/js/main.81d6f5cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.9c26006a.css",
+    "static/js/main.81d6f5cf.js"
   ]
 }
